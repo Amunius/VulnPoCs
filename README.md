@@ -1,2 +1,2 @@
 # VulnPoCs
-Proof of concepts for vulnerabilities which I have found
+Proof of concepts for some vulnerabilities which I have found. Most of them I have written very long time ago and I didn't care about code quality so I know there are a lot of things to improve.
